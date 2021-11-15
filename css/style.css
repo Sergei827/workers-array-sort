@@ -1,0 +1,26 @@
+
+
+.workers-table{
+    width: 80%;
+}
+
+.early-working-age{
+    background: #B0E0E6;
+}
+
+.average-working-age{
+    background: #1E90FF;
+}
+
+.mature-working-age{
+    background: #0000CD;
+}
+
+.higher-education{
+    font-weight: bold;
+}
+
+.beginner{
+    color: #fff;
+    background: #008000;
+}
